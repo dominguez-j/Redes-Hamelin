@@ -1,0 +1,14 @@
+.DS_Store
+.env
+
+__pycache__/
+
+.vscode/
+.idea/
+.cursor/
+.venv/
+
+__pycache__/
+
+storage_server/
+storage_client/

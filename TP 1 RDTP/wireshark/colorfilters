@@ -1,0 +1,4 @@
+@RFTP ERR@rftp.flags.err == 1@[48830,8738,8738][60000,60000,60000]
+@RFTP SYN@rftp.flags.syn == 1@[8738,48830,17476][6168,4883,4883]
+@RFTP ACK@rftp.flags.syn == 0 && rftp.flags.ack == 1@[48830,44718,8738][6168,4883,4883]
+@RFTP FIN@rftp.flags.fin == 1@[48830,26728,8738][6168,4883,4883]
